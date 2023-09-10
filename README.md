@@ -47,4 +47,4 @@ I'm always open to exciting collaborations and new projects. If you have an idea
 
 Thanks for visiting my GitHub profile! 😄
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/rakeshsarkar9711=your-username&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical))
