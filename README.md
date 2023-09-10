@@ -1,50 +1,42 @@
-<!-- Your Name -->
-# Hi, I'm REVENANT 👋
+# Hi there! 👋 I'm REVENANT
 
-I'm a passionate web developer and video editor, constantly striving to create visually stunning and interactive online experiences. With a strong foundation in CSS, JavaScript, Python, and HTML, I bring your ideas to life on the web.
+## A passionate French developer with a love for all things tech
 
-🌐 **Portfolio:** [Your Portfolio Link]
-📹 **YouTube:** [Your YouTube Channel Link]
+![Profile Views](https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 Skills
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711)
 
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Video Editing:** Adobe Premiere Pro, After Effects
-- **Programming Languages:** Java, Python
-- **Design Tools:** Adobe Photoshop, Illustrator
-- **Version Control:** Git, GitHub
+- 🔭 Currently working on [Discord Analytics](https://discordanalytics.xyz)
 
-## 🎥 Featured Projects
+- 🌱 Learning **VueJS** and **NextJS** at the moment
 
-🔥 Here are some of my favorite projects:
+- 📫 You can reach me at: [nolhan.dev@gmail.com](mailto:nolhan.dev@gmail.com)
 
-1. **[Project Name](Project Link):** A brief description of the project.
-2. **[Project Name](Project Link):** A brief description of the project.
-3. **[Project Name](Project Link):** A brief description of the project.
+- ⚡ Fun fact: I'm a huge fan of simulation games 👀
 
-## 📚 Blog Articles
+## Languages and Tools:
 
-I enjoy sharing my knowledge and experiences through blog articles. Here are a few of my recent posts:
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
-1. [Title of Blog Post](Blog Post Link)
-   - Description of the post.
-2. [Title of Blog Post](Blog Post Link)
-   - Description of the post.
-3. [Title of Blog Post](Blog Post Link)
-   - Description of the post.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rakeshsarkar9711&show_icons=true&theme=onedark&locale=en&layout=compact)
 
-## 📫 Get in Touch
-
-Feel free to connect with me on social media or drop me an email:
-
-- **Email:** [Your Email Address]
-- **LinkedIn:** [LinkedIn Profile Link]
-- **Twitter:** [Twitter Profile Link]
-
-## 🌟 Let's Collaborate
-
-I'm always open to exciting collaborations and new projects. If you have an idea or just want to chat, don't hesitate to reach out!
-
-Thanks for visiting my GitHub profile! 😄
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=onedark&locale=en)
