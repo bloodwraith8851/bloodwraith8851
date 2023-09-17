@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Html** and **java, python and other** at the moment
 
-- 📫 You can reach me at: [nolhan.dev@gmail.com](mailto:nolhan.dev@gmail.com)
+- 📫 You can reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
 
 - ⚡ Fun fact: I'm a huge fan of simulation games 👀
 
