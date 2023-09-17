@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on [Discord Analytics](https://discordanalytics.xyz)
 
-- 🌱 Learning **VueJS** and **NextJS** at the moment
+- 🌱 Learning **Html** and **java, python and other** at the moment
 
 - 📫 You can reach me at: [nolhan.dev@gmail.com](mailto:nolhan.dev@gmail.com)
 
