@@ -6,8 +6,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711)
 
-- 🔭 Currently working on [Discord Analytics](https://discordanalytics.xyz)
-
 - 🌱 Learning **Html** and **java, python and other** at the moment
 
 - 📫 You can reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
