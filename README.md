@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm REVENANT
 
-## A passionate French developer with a love for all things tech
+## A passionate developer with a love for all things tech
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat)
 
