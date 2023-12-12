@@ -72,36 +72,52 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
 
 # Learning Progress
 
-## Technical Skills
-
 ### HTML
-![HTML Progress](https://progress-bar-url.com/70) <!-- Replace with actual progress -->
+
+- **Progress:** I have a solid understanding of HTML and can create structured web pages.
+- **Next Steps:** I plan to delve deeper into advanced HTML features like forms and semantic elements.
 
 ### CSS
-![CSS Progress](https://progress-bar-url.com/50) <!-- Replace with actual progress -->
+
+- **Progress:** I am comfortable styling web pages using CSS, including layout and responsiveness.
+- **Next Steps:** I aim to enhance my skills in CSS animations and preprocessors like Sass.
 
 ### JavaScript
-![JavaScript Progress](https://progress-bar-url.com/80) <!-- Replace with actual progress -->
+
+- **Progress:** I have a good grasp of JavaScript fundamentals and can build interactive web elements.
+- **Next Steps:** I'm focusing on mastering asynchronous JavaScript and working with APIs.
 
 ### Python
-![Python Progress](https://progress-bar-url.com/60) <!-- Replace with actual progress -->
+
+- **Progress:** I've learned the basics of Python, including data structures and basic algorithms.
+- **Next Steps:** I'm exploring more advanced Python topics such as web scraping and data analysis.
 
 ### React
-![React Progress](https://progress-bar-url.com/90) <!-- Replace with actual progress -->
+
+- **Progress:** I've started building projects with React and understand the basics of component-based development.
+- **Next Steps:** I'm planning to work on more complex React applications and explore state management.
 
 ## Professional Skills
 
 ### Creativity
-![Creativity Progress](https://progress-bar-url.com/90) <!-- Replace with actual progress -->
+
+- **Progress:** I consistently come up with creative solutions to programming challenges.
+- **Next Steps:** I'm looking to apply creativity in designing user interfaces and improving user experiences.
 
 ### Communication
-![Communication Progress](https://progress-bar-url.com/65) <!-- Replace with actual progress -->
+
+- **Progress:** I effectively communicate technical concepts with team members.
+- **Next Steps:** I'm working on improving my documentation and presentation skills.
 
 ### Problem Solving
-![Problem Solving Progress](https://progress-bar-url.com/75) <!-- Replace with actual progress -->
+
+- **Progress:** I can analyze and solve complex problems efficiently.
+- **Next Steps:** I'm participating in coding challenges and real-world projects to enhance my problem-solving skills.
 
 ### Teamwork
-![Teamwork Progress](https://progress-bar-url.com/85) <!-- Replace with actual progress -->
+
+- **Progress:** I collaborate well with team members and contribute to group projects.
+- **Next Steps:** I'm exploring opportunities to lead and coordinate team efforts for larger projects.
 
 ## Favorite Games
 
