@@ -25,7 +25,7 @@
   
 # Discord Presence
 
-[![Discord Presence](https://img.shields.io/endpoint?url=https://api.lanyard.rest/v1/users/YOUR_DISCORD_USER_ID)](https://discord.com/users/829301078687612938)
+[![Discord Presence](https://img.shields.io/endpoint?url=https://api.lanyard.rest/v1/users/829301078687612938)](https://discord.com/users/829301078687612938)
 
 <!-- Add a dynamic GitHub stats animation -->
 <p align="center">
