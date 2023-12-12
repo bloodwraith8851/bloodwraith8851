@@ -22,15 +22,15 @@
 - 🌱 Currently learning **HTML** and **Java, Python, and more**.
 - 📫 Reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
 - ⚡ Fun fact: I'm a huge fan of simulation games 👀
-  
-# Discord Presence
-
-[![Discord Presence](https://img.shields.io/endpoint?url=https://api.lanyard.rest/v1/users/829301078687612938)](https://discord.com/users/829301078687612938)
 
 <!-- Add a dynamic GitHub stats animation -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
+
+# Discord Status
+
+[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
 
 <p align="center">
   <h1>
