@@ -68,7 +68,40 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
 
 ## Learning Progress
 
-- Document your learning journey, mention courses, projects, or resources you're currently working on.
+<!-- README.md -->
+
+# Learning Progress
+
+## Technical Skills
+
+### HTML
+![HTML Progress](https://progress-bar-url.com/70) <!-- Replace with actual progress -->
+
+### CSS
+![CSS Progress](https://progress-bar-url.com/50) <!-- Replace with actual progress -->
+
+### JavaScript
+![JavaScript Progress](https://progress-bar-url.com/80) <!-- Replace with actual progress -->
+
+### Python
+![Python Progress](https://progress-bar-url.com/60) <!-- Replace with actual progress -->
+
+### React
+![React Progress](https://progress-bar-url.com/90) <!-- Replace with actual progress -->
+
+## Professional Skills
+
+### Creativity
+![Creativity Progress](https://progress-bar-url.com/90) <!-- Replace with actual progress -->
+
+### Communication
+![Communication Progress](https://progress-bar-url.com/65) <!-- Replace with actual progress -->
+
+### Problem Solving
+![Problem Solving Progress](https://progress-bar-url.com/75) <!-- Replace with actual progress -->
+
+### Teamwork
+![Teamwork Progress](https://progress-bar-url.com/85) <!-- Replace with actual progress -->
 
 ## Favorite Games
 
