@@ -8,7 +8,7 @@
     Hi there! 👋 I'm RAKESH
   </h1>
 </p>
-[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
@@ -22,6 +22,10 @@
 - 🌱 Currently learning **HTML** and **Java, Python, and more**.
 - 📫 Reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
 - ⚡ Fun fact: I'm a huge fan of simulation games 👀
+  
+# Discord Presence
+
+[![Discord Presence](https://img.shields.io/endpoint?url=https://api.lanyard.rest/v1/users/YOUR_DISCORD_USER_ID)](https://discord.com/users/829301078687612938)
 
 <!-- Add a dynamic GitHub stats animation -->
 <p align="center">
