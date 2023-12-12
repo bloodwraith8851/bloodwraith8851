@@ -115,3 +115,7 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
 
 - **Progress:** I collaborate well with team members and contribute to group projects.
 - **Next Steps:** I'm exploring opportunities to lead and coordinate team efforts for larger projects.
+
+# Discord Status
+
+[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
