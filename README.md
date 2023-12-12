@@ -27,7 +27,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
 
-## My Services:
+<p align="center">
+  <h1>
+    My Services:
+  </h1>
+</p>
 
 <div class="services" id="services">
     <div class="services-list">
