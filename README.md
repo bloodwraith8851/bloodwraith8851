@@ -1,6 +1,6 @@
 <!-- Add an attention-grabbing banner or GIF at the top -->
 <p align="center">
-  <img src="" alt="Banner" width="100%">
+  <img src="y2mate.com - Sadistic Psychopath Japanese Voice Acting_1080p.mp4" alt="Banner" width="100%">
 </p>
 
 # Hi there! 👋 I'm REVENANT
