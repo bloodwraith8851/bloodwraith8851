@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size: 120px; color: #f39c12;">Hi there! 👋 I'm <span style="font-size: 28px; color: #2980b9;">RAKESH</span></b>
+  <b style="font-size: 24px; color: #f39c12;">Hi there! 👋 I'm</b> <span style="font-size: 28px; color: #2980b9;">RAKESH</span>
 </p>
 
 <p align="center">
