@@ -1,6 +1,6 @@
 <!-- Add an attention-grabbing banner or GIF at the top -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/2080185.jpg" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/98/d6/83/98d683d99f5422d09cd093275aeae554.gif" alt="Banner" width="100%">
 </p>
 
 # Hi there! 👋 I'm REVENANT
