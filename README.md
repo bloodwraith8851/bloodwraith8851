@@ -128,7 +128,7 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
     <img src="https://flyclipart.com/thumb2/image-703948.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="">
-    <img src="https://www.clipartmax.com/png/small/20-202056_instagram-instagram-business-card-icon.png" alt="Twitter" width
+    <img src="https://clipartcraft.com/images/transparent-instagram-logo-business-card-1.png" alt="Twitter" width
   </a>
 </p>
 
