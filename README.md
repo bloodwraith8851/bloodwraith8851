@@ -1,6 +1,6 @@
 <!-- Add an attention-grabbing banner or GIF at the top -->
 <p align="center">
-  <img src="https://www.youtube.com/watch?v=NDh0Z_eJ5L0" alt="Banner" width="100%">
+  <img src="" alt="Banner" width="100%">
 </p>
 
 # Hi there! 👋 I'm REVENANT
