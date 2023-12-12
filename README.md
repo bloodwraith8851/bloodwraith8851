@@ -3,9 +3,8 @@
   <img src="https://i.pinimg.com/originals/98/d6/83/98d683d99f5422d09cd093275aeae554.gif" alt="Banner" width="680" height="240" style="border-radius: 15px;">
 </p>
 
-<b><P align="center">
-   Hi there! 👋 I'm RAKESH
-</P></b>
+<b><p align="center" style="font-size: 24px; color: #f39c12;">Hi there! 👋 I'm <span style="font-size: 28px; color: #2980b9;">RAKESH</span></p></b>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
@@ -60,5 +59,10 @@
   </a>
   <a href="#your-twitter-url">
     <img src="animated-twitter-icon-url" alt="Twitter" width
+  </a>
+</p>
 
-
+<!-- Add a cool footer with animations or ASCII art -->
+<p align="center">
+  <!-- Your footer content goes here -->
+</p>
