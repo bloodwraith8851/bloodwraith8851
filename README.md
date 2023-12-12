@@ -5,7 +5,7 @@
 
 <p align="center">
   <h1>
-      Hi there! 👋 I'm RAKESH
+    Hi there! 👋 I'm RAKESH
   </h1>
 </p>
 <p align="center">
