@@ -3,8 +3,11 @@
   <img src="https://i.pinimg.com/originals/98/d6/83/98d683d99f5422d09cd093275aeae554.gif" alt="Banner" width="680" height="240" style="border-radius: 15px;">
 </p>
 
-## Hi there! 👋 I'm RAKESH
-
+<p align="center">
+  <h1>
+      Hi there! 👋 I'm RAKESH
+  </h1>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
