@@ -8,10 +8,10 @@
     Hi there! 👋 I'm RAKESH
   </h1>
 </p>
+[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711" alt="GitHub Trophies">
