@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711" alt="GitHub Trophies">
@@ -18,9 +19,6 @@
 
 ## About Me
 
-<p align="center">
-  [![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
-</p>
 - 🌱 Currently learning **HTML** and **Java, Python, and more**.
 - 📫 Reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
 - ⚡ Fun fact: I'm a huge fan of simulation games 👀
