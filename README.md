@@ -1,40 +1,69 @@
+<!-- Add an attention-grabbing banner or GIF at the top -->
+<p align="center">
+  <img src="https://www.youtube.com/watch?v=NDh0Z_eJ5L0" alt="Banner" width="100%">
+</p>
+
 # Hi there! 👋 I'm REVENANT
 
-## A passionate developer with a love for all things tech
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711" alt="GitHub Trophies">
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711)
+## About Me
 
-- 🌱 Learning **Html** and **java, python and other** at the moment
-
-- 📫 You can reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
-
+- 🌱 Currently learning **HTML** and **Java, Python, and more**.
+- 📫 Reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
 - ⚡ Fun fact: I'm a huge fan of simulation games 👀
+
+<!-- Add a dynamic GitHub stats animation -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
+</p>
 
 ## Languages and Tools:
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<!-- Add animated icons for languages and tools -->
+<p align="center">
+  <img src="animated-css3-icon-url" alt="CSS3" width="40" height="40"/>
+  <img src="animated-html5-icon-url" alt="HTML5" width="40" height="40"/>
+  <img src="animated-js-icon-url" alt="JavaScript" width="40" height="40"/>
+  <!-- Add more animated icons here -->
+</p>
+
+## Projects
+
+- [Project 1](#) - Brief description of the project.
+- [Project 2](#) - Another awesome project.
+
+## Learning Progress
+
+- Document your learning journey, mention courses, projects, or resources you're currently working on.
+
+## Favorite Games
+
+- Share your top simulation games and any related projects you've worked on.
+
+## Connect with Me
+
+<!-- Add animated social media icons -->
+<p align="center">
+  <a href="https://github.com/rakeshsarkar9711">
+    <img src="animated-github-icon-url" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="#your-linkedin-url">
+    <img src="animated-linkedin-icon-url" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="#your-twitter-url">
+    <img src="animated-twitter-icon-url" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rakeshsarkar9711&show_icons=true&theme=onedark&locale=en&layout=compact)
+<!-- Add a cool footer with animations or ASCII art -->
+<p align="center">
+  <!-- Your footer content goes here -->
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=onedark&locale=en)
