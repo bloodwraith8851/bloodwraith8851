@@ -54,9 +54,13 @@
     </div>
 </div>
 
-## Projects
+<p align="center">
+  <h1>
+    Projects
+  </h1>
+</p>
 
-# Jarvis - Your Advanced AI Companion
+## Jarvis - Your Advanced AI Companion
 
 Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe. Clap to wake up, speak your commands, and enjoy a seamless, private AI experience. Join us in shaping the future of Jarvis!
 
