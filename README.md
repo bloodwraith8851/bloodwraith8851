@@ -66,9 +66,6 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
 
 [Read more](https://github.com/rakeshsarkar9711/jarvis)
 
-## Learning Progress
-
-<!-- README.md -->
 
 # Learning Progress
 
