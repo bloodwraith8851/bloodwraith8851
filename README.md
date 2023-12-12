@@ -27,7 +27,6 @@
 ## My Services:
 
 <div class="services" id="services">
-    <h1 class="sub-title">My <span>Services</span></h1>
     <div class="services-list">
         <!-- UI/UX Design -->
         <div>
