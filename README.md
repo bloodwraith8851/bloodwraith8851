@@ -116,22 +116,19 @@ Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe.
 - **Progress:** I collaborate well with team members and contribute to group projects.
 - **Next Steps:** I'm exploring opportunities to lead and coordinate team efforts for larger projects.
 
-## Favorite Games
-
-- Share your top simulation games and any related projects you've worked on.
 
 ## Connect with Me
 
 <!-- Add animated social media icons -->
 <p align="center">
   <a href="https://github.com/rakeshsarkar9711">
-    <img src="animated-github-icon-url" alt="GitHub" width="40" height="40"/>
+    <img src="https://clipground.com/images/github-icon-clipart-7.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="#your-linkedin-url">
-    <img src="animated-linkedin-icon-url" alt="LinkedIn" width="40" height="40"/>
+  <a href="">
+    <img src="https://flyclipart.com/thumb2/image-703948.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="#your-twitter-url">
-    <img src="animated-twitter-icon-url" alt="Twitter" width
+  <a href="">
+    <img src="https://www.clipartmax.com/png/small/20-202056_instagram-instagram-business-card-icon.png" alt="Twitter" width
   </a>
 </p>
 
