@@ -1,122 +1,112 @@
-<!-- Add an attention-grabbing banner with round corners -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/98/d6/83/98d683d99f5422d09cd093275aeae554.gif" alt="Banner" width="680" height="240" style="border-radius: 15px;">
-</p>
+<h2 align="left">Hi 👋! My name is REVENANT and I'm a Devloper from India</h2>
 
-<p align="center">
-  <h1>
-    Hi there! 👋 I'm RAKESH
-  </h1>
-</p>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakeshsarkar9711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakeshsarkar9711" alt="GitHub Trophies">
-</p>
-
-## About Me
-
-- 🌱 Currently learning **HTML** and **Java, Python, and more**.
-- 📫 Reach me at: [rakeshsarkar9711@gmail.com](mailto:rakeshsarkar9711@gmail.com)
-- ⚡ Fun fact: I'm a huge fan of simulation games 👀
-
-<!-- Add a dynamic GitHub stats animation -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsarkar9711&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
-</p>
-
-# Discord Status
-
-[![Discord Status](https://img.shields.io/badge/Discord-Online-brightgreen)](https://discord.com/users/829301078687612938)
-
-<p align="center">
-  <h1>
-    My Services:
-  </h1>
-</p>
-
-<div class="services" id="services">
-    <div class="services-list">
-        <!-- UI/UX Design -->
-        <div>
-            <h2>UI/UX Design</h2>
-            <p>I specialize in crafting intuitive and visually engaging user interfaces (UI) that seamlessly integrate with user experiences (UX), ensuring a delightful and purposeful interaction. My design approach prioritizes simplicity, accessibility, and aesthetics for a memorable and user-centric digital journey.</p>
-            <a href="https://www.coursera.org/articles/ui-vs-ux-design" class="read">Learn more</a>
-        </div>
-        <div>
-            <h2>Responsive Web Design</h2>
-            <p>Creating responsive web designs that not only captivate visitors with aesthetics but also prioritize functionality across devices, fostering a positive and consistent brand image. With a focus on accessibility and engagement, I strive to elevate your online platform, leaving a lasting impression on users and fostering meaningful interactions.</p>
-            <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" class="read">Learn more</a>
-        </div>
-        <div>
-            <h2>Full Stack Web Development</h2>
-            <p>Developing robust full-stack solutions, prioritizing cross-device functionality, and fostering a consistent brand image. With a dedicated focus on accessibility and engagement, I strive to elevate online platforms, leaving lasting impressions, and fostering meaningful interactions for sustained user satisfaction.</p>
-            <a href="https://www.coursera.org/articles/full-stack-developer" class="read">Learn more</a>
-        </div>
-    </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bloodwraith8851/count.svg?"  />
 </div>
 
-<p align="center">
-  <h1>
-    Projects
-  </h1>
-</p>
+###
 
-## Jarvis - Your Advanced AI Companion
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bloodwraith8851&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodwraith8851&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Meet Jarvis, your advanced AI companion inspired by Marvel's cinematic universe. Clap to wake up, speak your commands, and enjoy a seamless, private AI experience. Join us in shaping the future of Jarvis!
+###
 
-[Read more](https://github.com/rakeshsarkar9711/jarvis)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-# Learning Progress
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+</div>
 
-### HTML
+###
 
-- **Progress:** I have a solid understanding of HTML and can create structured web pages.
-- **Next Steps:** I plan to delve deeper into advanced HTML features like forms and semantic elements.
+<div align="left">
+  <a href="https://www.instagram.com/the.end_giveup" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/829301078687612938" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="rakeshsarkar9711@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-### CSS
+###
 
-- **Progress:** I am comfortable styling web pages using CSS, including layout and responsiveness.
-- **Next Steps:** I aim to enhance my skills in CSS animations and preprocessors like Sass.
+<div align="center">
+  <a href="https://open.spotify.com/user/31w74gdjgusjsrddzpf7xbysvsgi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w74gdjgusjsrddzpf7xbysvsgi&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-### JavaScript
+###
 
-- **Progress:** I have a good grasp of JavaScript fundamentals and can build interactive web elements.
-- **Next Steps:** I'm focusing on mastering asynchronous JavaScript and working with APIs.
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=radical&username=bloodwraith8851" alt="Layout with last medium posts"  />
+</div>
 
-### Python
+###
 
-- **Progress:** I've learned the basics of Python, including data structures and basic algorithms.
-- **Next Steps:** I'm exploring more advanced Python topics such as web scraping and data analysis.
+<img src="https://raw.githubusercontent.com/bloodwraith8851/bloodwraith8851/output/snake.svg" alt="Snake animation" />
 
-### React
-
-- **Progress:** I've started building projects with React and understand the basics of component-based development.
-- **Next Steps:** I'm planning to work on more complex React applications and explore state management.
-
-## Professional Skills
-
-### Creativity
-
-- **Progress:** I consistently come up with creative solutions to programming challenges.
-- **Next Steps:** I'm looking to apply creativity in designing user interfaces and improving user experiences.
-
-### Communication
-
-- **Progress:** I effectively communicate technical concepts with team members.
-- **Next Steps:** I'm working on improving my documentation and presentation skills.
-
-### Problem Solving
-
-- **Progress:** I can analyze and solve complex problems efficiently.
-- **Next Steps:** I'm participating in coding challenges and real-world projects to enhance my problem-solving skills.
-
-### Teamwork
-
-- **Progress:** I collaborate well with team members and contribute to group projects.
-- **Next Steps:** I'm exploring opportunities to lead and coordinate team efforts for larger projects.
+###
