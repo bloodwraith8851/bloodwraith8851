@@ -101,12 +101,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=radical&username=bloodwraith8851" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img src="https://github.com/bloodwraith8851/bloodwraith8851/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
 
 ###
