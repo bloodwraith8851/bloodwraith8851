@@ -107,6 +107,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bloodwraith8851/bloodwraith8851/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bloodwraith8851/output/snake.svg" alt="Snake animation" />
 
 ###
