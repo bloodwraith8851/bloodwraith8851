@@ -107,6 +107,6 @@
 
 ###
 
-![snake animation](https://github.com/bloodwraith8851/bloodwraith8851/blob/output/github-contribution-grid-snake2.svg#gh-dark-mode-only)
+<img src="https://github.com/bloodwraith8851/bloodwraith8851/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
 
 ###
